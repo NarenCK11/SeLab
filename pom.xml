@@ -20,9 +20,7 @@
                <artifactId>joda-time</artifactId>
                <version>2.2</version>
            </dependency>
-       </dependencies>
-       <!-- end::joda[] -->
-       <dependencies>
+       
     <!-- Existing dependencies -->
 
     <!-- JUnit 4 dependency for tests -->
@@ -32,6 +30,7 @@
         <version>4.13.2</version>
         <scope>test</scope>
     </dependency>
+    
 </dependencies>
 
     <build>
